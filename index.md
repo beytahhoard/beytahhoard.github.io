@@ -8,8 +8,8 @@ screaming BAD DAYTAH? Well have we got just the treat for you!
 
 Welcome to the Beytah Hoard! This is a small, curated directory of everything
 prerelease, prototype, or otherwise hidden in any sort of media (we're mostly
-interested in video games though). And you're welcome to [pitch in](#) and/or
-[study](#) how we do things around here.
+interested in video games though). And you're welcome to [pitch in](https://github.com/beytahhoard/beytahhoard.github.io/pulls) and/or
+[study](https://github.com/beytahhoard/beytahhoard.github.io) how we do things around here.
 
 <div class="container">
 	<div class="column">
