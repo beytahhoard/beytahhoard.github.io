@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}<body> {% comment %} 
+
+WHY DOES {% include %} ADD A NEWLINE AFTER IT?!
+IT DOESN'T MAKE ANY SENSE!
+
+{% endcomment %}
+	<header>
+		<h1>{{ site.title }}</h1>
+	</header>
+	<article>
+		{{ content }}
+	</article>
+</body>
+</html>
+

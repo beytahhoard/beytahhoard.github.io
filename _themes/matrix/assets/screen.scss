@@ -1,0 +1,65 @@
+---
+---
+
+/* fonts */
+@font-face {
+font-family: 'DotMatrix Regular';
+font-style: normal;
+font-weight: normal;
+src: local('DotMatrix Regular'), url('dotmatrix.woff') format('woff');
+}
+
+/* reset ! */
+html,body,address,blockquote,div,
+form,fieldset,caption,
+h1,h2,h3,h4,h5,h6,
+hr,ul,li,ol,ul,
+table,tr,td,th,p,img {
+	margin:0;
+	padding:0;
+}
+
+html { box-sizing: border-box; }
+*,*:before,*:after { box-sizing: inherit; }
+
+img, fieldset {
+	border:none;
+}
+
+hr {
+	display:none;
+}
+
+/* begin main code */
+// this should have a matrixy background
+
+body{
+	margin: 1em 3em;
+	//background: url('aaaa.png');
+	color: #fff;
+	background: #111;
+	font-family: Helvetica, Arial, Arimo, 'Liberation Sans', sans-serif;
+	line-height: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin: 1em 0;
+	color: #58f;
+	font-family: 'DotMatrix Regular';
+}
+
+header {
+	h1 {
+		text-transform: lowercase;
+		text-align:center;
+	}
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+.container{ display: flex; }
+.column{ flex: 1 1 0px; }
+
+a { color: inherit; opacity: 0.7; &:hover{opacity: 1;}}
