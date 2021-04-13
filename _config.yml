@@ -13,10 +13,10 @@ collections:
     output: true
 
 # Build settings
-local_theme: matrix
+remote_theme: beytahhoard/matrix
 plugins:
   - jekyll-feed
-  - jekyll-local-theme
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
