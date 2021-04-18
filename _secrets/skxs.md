@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 title:  "Shi Kong Xing Shou"
 ---
 **Shi Kong Xing Shou** is your average monster-hunter game for the Game Boy Color. A favorite among Vast Fame's other output, yet cobbled together with subpar code and duct tape.
