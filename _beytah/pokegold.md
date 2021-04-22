@@ -3,7 +3,7 @@ layout: subpage
 title:  "Pokémon Gold"
 ---
 
-## Unused Battle Transition (SW'97)
+## Unused Battle Transition (SW 97)
 
 In the Spaceworld 1997 demo, four transition types can be seen. Three of which (wavy, clockwise wipe, speckle) make it to the final game, and an additional one (scanlines) that can be seen in demo footage. These transitions are triggered at random on every battle (wild or trainer).
 
@@ -20,7 +20,7 @@ To see this transition on every encounter, replace 4 bytes in the SW'97 ROM, sta
 * `085-C8B-D56`
 * `085-C9B-B32`
 
-## Sweet Kiss and Curse (SW'99)
+## Sweet Kiss and Curse (SW 99)
 
 In the Spaceworld 1999 demo, the sprites for the Sweet Kiss and Curse
 animation look less cartoony.
