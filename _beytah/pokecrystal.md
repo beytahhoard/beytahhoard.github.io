@@ -3,7 +3,7 @@ layout: subpage
 title:  "Pokémon Crystal"
 ---
 
-## Early Game Freak Intro Sprites
+### Early Game Freak Intro Sprites
 
 These sprites were found in `xtal/pmcsrc/data/testmeta.dat`, it appears to be an
 earlier iteration of Crystal's intro animation. It features Ditto with a
